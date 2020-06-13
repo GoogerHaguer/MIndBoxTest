@@ -1,0 +1,9 @@
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\bin\Release\netcoreapp3.1\MIndBoxTest.deps.json
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\bin\Release\netcoreapp3.1\MIndBoxTest.dll
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\bin\Release\netcoreapp3.1\MIndBoxTest.pdb
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.csprojAssemblyReference.cache
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.AssemblyInfoInputs.cache
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.AssemblyInfo.cs
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.dll
+C:\Users\Rumyancev\source\repos\MIndBoxTest\MIndBoxTest\obj\Release\netcoreapp3.1\MIndBoxTest.pdb
